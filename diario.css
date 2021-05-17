@@ -1,0 +1,97 @@
+<style>
+		body{
+			 height: 100%;
+  			margin: 0;
+		}
+		.parallax {
+		  /* The image used */
+		  background-image: url("playa.jpg");
+
+		  /* Set a specific height */
+		  min-height: 800px;
+
+		  /* Create the parallax scrolling effect */
+		  background-attachment: fixed;
+		  background-position: center;
+		  background-repeat: no-repeat;
+		  background-size: cover;
+		  line-height: 500px;
+		  text-align: center;
+		  font-family: 'Caveat', cursive;
+		  font-size: 60px;
+		  color: white;
+
+		}
+		h3{
+			background-color: black;
+		}
+		.parallax_2 {
+		 background-image: url("surf.jpg");
+
+		  /* Set a specific height */
+		  min-height: 800px;
+
+		  /* Create the parallax scrolling effect */
+		  background-attachment: fixed;
+		  background-position: center;
+		  background-repeat: no-repeat;
+		  background-size: cover;
+		  line-height: 500px;
+		  text-align: center;
+		  font-family: 'Caveat', cursive;
+		  font-size: 60px;
+		  color: white;
+		}
+
+		.parallax_3 {
+		 background-image: url("island.jpg");
+
+		  /* Set a specific height */
+		  min-height: 800px;
+
+		  /* Create the parallax scrolling effect */
+		  background-attachment: fixed;
+		  background-position: center;
+		  background-repeat: no-repeat;
+		  background-size: cover;
+		  line-height: 500px;
+		  text-align: center;
+		  font-family: 'Caveat', cursive;
+		  font-size: 60px;
+		  color: white;
+		}
+		.parallax_footer {
+		  /* The image used */
+		  background-image: url("canoa.jpg");
+
+		  /* Set a specific height */
+		  min-height: 250px;
+
+		  /* Create the parallax scrolling effect */
+		  background-attachment: fixed;
+		  background-position: center;
+		  background-repeat: no-repeat;
+		  background-size: cover;
+		}
+		.p_font{
+			font-family: 'Newsreader', serif;
+			font-size: 20px;
+		}
+		.title{
+			font-family: 'Girassol', cursive;
+		}
+		.footer{
+			height: 250px;
+			display: flex;
+			line-height: 230px;
+			text-align: center;
+			border-top: 500px;
+			font-family: 'Yellowtail', cursive;
+			font-size: 60px;
+			color: white;
+			background-color: black;
+		}
+		span{
+			background-color: black;
+		}
+</style>
